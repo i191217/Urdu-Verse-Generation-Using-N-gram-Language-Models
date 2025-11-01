@@ -1,8 +1,9 @@
-# Develop-N-gram-Language-Model-for-Poetry-Generation-in-Urdu
-Developed n-gram language model to generate some poetry using the spaCy library for text processing.
+# Urdu Verse Generation Using N-gram Language Models
+• Developed an automated verse generation system for Urdu poetry using Unigram, Bigram, and Trigram language models.
 
-• Loaded the Poetry Corpus.
+• Implemented text preprocessing pipelines with spaCy for tokenization and stop word removal.
 
-• Tokenize the corpus in order to split it into a list of words.
+• Trained statistical models to analyze word sequence probabilities within the corpus and generate coherent poetic verses and stanzas.
 
-• Generated 1, 2 and 3-gram models for Urdu language.
+• Demonstrated the application of traditional N-gram models in creative text generation for low-resource languages.
+
